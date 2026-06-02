@@ -1,4 +1,6 @@
 # AstroDockRL-Autonomous-Orbital-Docking-via-Reinforcement-Learning 
+## Preview 
+![Preview](posterastro.png)
 
 **AstroDockRL** is a high-fidelity reinforcement learning (RL) framework designed to train autonomous spacecraft agents for proximity operations and docking in Low Earth Orbit (LEO). Using the **Proximal Policy Optimization (PPO)** algorithm, the agent learns to navigate complex orbital mechanics while compensating for realistic environmental perturbations, actuator noise, and sensor uncertainty.
 
